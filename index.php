@@ -222,7 +222,7 @@
                </div>
                <div class="col-md-4 margi_bottom">
                   <div class="class_box text_align_center">
-                     <i><img src="images/Male_Athletic_Clipart_Transparent_Background__Red_Sportswear_Male_Athlete_Playing_Basketball__Clipart_Basketball__Red__Athletic_Wear_PNG_Image_For_Free_Download-removebg-preview.png" alt="#"/></i>
+                     <i><img src="images/—Pngtree—outdoor basketball court three basketball_4691156.png" alt="#"/></i>
                      <h3>Manfaat Bermain</h3>
                   <p>Bermain bola basket memberikan banyak manfaat, mulai dari meningkatkan kesehatan fisik seperti kekuatan dan daya tahan hingga kemampuan mental seperti kerja sama dan disiplin.</p>
               </div>
