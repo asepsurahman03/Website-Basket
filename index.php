@@ -310,7 +310,7 @@
                </div>
                <div class="col-md-4">
                   <div class="skating-box">
-                     <figure><img src="images/clipart_basketball_cartoon_basketball_basketball_team_basketball_player_basketball_game_cartoon_basketball_sports_characters_basketball_characters_cartoon_basketball_characters_basketball_clipart_cart.png" alt="#"/></figure>
+                     <figure><img src="images/unduhan__1_-removebg-preview.png" alt="#"/></figure>
                      <div class="link_btn">
                         <a class="read_more" href="Javascript:void(0)">Passing: </a>
                      </div>
